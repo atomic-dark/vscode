@@ -4,6 +4,15 @@
     "description": "Atomic Dark is a sleek, developer-friendly collection of widely-used syntax themes with OLED support and enhanced contrast.",
     "version": "1.0.0",
     "publisher": "thekodeking",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thekodeking/vscode-atomic-dark-theme.git"
+    },
+    "homepage": "https://github.com/thekodeking/vscode-atomic-dark-theme#readme",
+    "bugs": {
+        "url": "https://github.com/thekodeking/vscode-atomic-dark-theme/issues"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
