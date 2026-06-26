@@ -41,6 +41,16 @@
                 "label": "Atomic Dark Afterglow",
                 "uiTheme": "vs-dark",
                 "path": "./themes/atomic-dark-afterglow-color-theme.json"
+            },
+            {
+                "label": "Atomic Dark Rosé Pine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/atomic-dark-rose-pine-color-theme.json"
+            },
+            {
+                "label": "Atomic Dark Vague",
+                "uiTheme": "vs-dark",
+                "path": "./themes/atomic-dark-vague-color-theme.json"
             }
         ]
     }
