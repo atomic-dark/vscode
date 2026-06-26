@@ -2,7 +2,7 @@
     "name": "atomic-dark-theme",
     "displayName": "Atomic Dark",
     "description": "Atomic Dark is a sleek, developer-friendly collection of widely-used syntax themes with OLED support and enhanced contrast.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "thekodeking",
     "icon": "assets/icon.png",
     "license": "MIT",
