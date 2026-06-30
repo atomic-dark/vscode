@@ -13,13 +13,40 @@ This extension features 6 distinct variants to suit your coding style:
 5. **Atomic Dark Rosé Pine** - A soothing, pastel syntax palette with contrast boosts for OLED displays.
 6. **Atomic Dark Vague** - A low-contrast, pastel variant inspired by the `vague.nvim` Neovim colorscheme.
 
-### Key Features
+## Previews
+
+<details>
+<summary>🌑 Atomic Dark</summary>
+<img src="assets/preview/atomic-dark-preview.png"/>
+</details>
+<details>
+<summary>🐈 Atomic Dark Catppuccin</summary>
+<img src="assets/preview/atomic-dark-catppuccin-preview.png"/>
+</details>
+<details>
+<summary>🎨 Atomic Dark Material</summary>
+<img src="assets/preview/atomic-dark-material-preview.png"/>
+</details>
+<details>
+<summary>🌅 Atomic Dark Afterglow</summary>
+<img src="assets/preview/atomic-dark-afterglow-preview.png"/>
+</details>
+<details>
+<summary>🌹 Atomic Dark Rosé Pine</summary>
+<img src="assets/preview/atomic-dark-rose-pine-preview.png"/>
+</details>
+<details>
+<summary>🌫️ Atomic Dark Vague</summary>
+<img src="assets/preview/atomic-dark-vague-preview.png"/>
+</details>
+
+## Key Features
 - **Unified OLED Backgrounds**: All variants use a deep `#0f1115` background that reduces eye strain and provides striking contrast for syntax colors.
 - **Variant-Specific UI Accents**: Floating UI elements (like the Command Palette, menus, and widgets) feature subtle background tints unique to each variant (e.g., dark purple/rose for Rosé Pine, dark teal for Material) to establish a distinct theme identity.
 - **Soft Borders**: UI borders have been carefully adjusted to `#1b1e25` to blend seamlessly with the deep backgrounds without being distracting.
 
 
-### Local Installation / Development
+## Local Installation / Development
 
 If you want to test or run the theme locally:
 
